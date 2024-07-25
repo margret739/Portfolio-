@@ -25,3 +25,5 @@ contents to help in mental stress
 DISCALIMER!!This site cannot cure 
 serious mental
 illness.
+
+Python for the backend, JAVASCRIPT, CSS for the frontend to enable a responsive platform, all these were used to create an amazing and user-friendly site for our users.
